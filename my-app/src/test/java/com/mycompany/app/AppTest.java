@@ -17,4 +17,10 @@ public class AppTest
     {
         assertEquals( "Hello World !", App.helloWorld());
     }
+
+    @Test
+    public void testConcatenate()
+    {
+        assertEquals( "HelloWorld!", App2.concatenate("Hello", "World!"));
+    }
 }
