@@ -1,12 +1,36 @@
-# r3-03-analyse-td2-nicolaspoda
-r3-03-analyse-td2-nicolaspoda created by GitHub Classroom
+= Traçabilité exigences - code
+:icons: font
+:MoSCoW: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW[MoSCoW]
+
+
 
 == Exigences
 
-Voici les exigences de départ :
+Voici la liste des exigences de départ :
 
-== 1 - Hello World
+=== 1 -- HelloWorld 
 
-Le programme doit contenir une méthode qui retourne "Hello World !".
+Description::
+Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" quand on l'exécute sans paramètre. 
 
-== 2 - 
+Issue::
+- https://github.com/IUT-Blagnac/tracabilite-template/issues/1
+
+Importance::
+Must
+
+=== 2 -- Echo 
+
+Description::
+La méthode `hello()` doit retourner son paramètre quand on l'invoque avec un paramètre. 
+
+Issue::
+
+Importance::
+Should
+
+[TIP]
+=====
+Nous utilisons ici la méthode {MoSCoW} d'estimation.
+=====
+
