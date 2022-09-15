@@ -19,10 +19,10 @@ Issue::
 Importance::
 Must
 
-=== 2 -- Echo 
+=== 2 -- Concaténation de chaînes de caractères
 
 Description::
-La méthode `hello()` doit retourner son paramètre quand on l'invoque avec un paramètre. 
+La méthode `concatenate()` doit retourner la concaténation des deux chaînes de caractères qui sont en entrée.
 
 Issue::
 
