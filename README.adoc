@@ -14,7 +14,7 @@ Description::
 Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" quand on l'exécute sans paramètre. 
 
 Issue::
-- https://github.com/IUT-Blagnac/tracabilite-template/issues/1
+- https://github.com/IUT-Blagnac/r3-03-analyse-td2-nicolaspoda/issues/2
 
 Importance::
 Must
