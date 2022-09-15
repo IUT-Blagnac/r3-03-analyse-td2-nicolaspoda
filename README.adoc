@@ -1,0 +1,31 @@
+= Traçabilité exigences - code
+:icons: font
+:MoSCoW: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW[MoSCoW]
+
+
+
+== Exigences
+
+Voici la liste des exigences de départ :
+
+=== 1 -- HelloWorld 
+
+Description::
+Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" quand on l'exécute sans paramètre. 
+
+Issue::
+- https://github.com/IUT-Blagnac/r3-03-analyse-td2-nicolaspoda/issues/2
+
+
+
+=== 2 -- Concaténation de chaînes de caractères
+
+Description::
+La méthode `concatenate()` doit retourner la concaténation des deux chaînes de caractères qui sont en entrée.
+
+Issue::
+
+- https://github.com/IUT-Blagnac/r3-03-analyse-td2-nicolaspoda/issues/4
+
+
+
