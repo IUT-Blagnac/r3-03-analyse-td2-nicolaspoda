@@ -16,8 +16,7 @@ Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" qu
 Issue::
 - https://github.com/IUT-Blagnac/r3-03-analyse-td2-nicolaspoda/issues/2
 
-Importance::
-Must
+
 
 === 2 -- Concaténation de chaînes de caractères
 
@@ -26,11 +25,7 @@ La méthode `concatenate()` doit retourner la concaténation des deux chaînes d
 
 Issue::
 
-Importance::
-Should
+- https://github.com/IUT-Blagnac/r3-03-analyse-td2-nicolaspoda/issues/4
 
-[TIP]
-=====
-Nous utilisons ici la méthode {MoSCoW} d'estimation.
-=====
+
 
