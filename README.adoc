@@ -1,2 +1,12 @@
 # r3-03-analyse-td2-nicolaspoda
 r3-03-analyse-td2-nicolaspoda created by GitHub Classroom
+
+== Exigences
+
+Voici les exigences de départ :
+
+== 1 - Hello World
+
+Le programme doit contenir une méthode qui retourne "Hello World !".
+
+== 2 - 
